@@ -12,17 +12,18 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Kartikey Tyagi - Software Engineer & UI/UX Designer",
-  description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products that balance user needs and business goals. 3+ years of industry experience.",
+  title: "Kartikey Tyagi - Full Stack Developer & Software Engineer",
+  description: "A self-taught Full Stack Developer and Software Engineer with 3+ years of experience building scalable web applications using Next.js, React, Node.js, and modern web technologies.",
   keywords: [
     "Kartikey Tyagi",
+    "Full Stack Developer",
     "Software Engineer",
-    "UI/UX Designer",
     "Frontend Developer",
+    "Backend Developer",
     "React Developer",
     "Next.js Developer",
-    "Web Designer",
-    "WebHR Engineer",
+    "Node.js Developer",
+    "MERN Stack",
     "Portfolio",
   ],
   authors: [{ name: "Kartikey Tyagi" }],
@@ -31,15 +32,12 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ibiimemon.com",
     title: "Kartikey Tyagi - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products.",
     siteName: "Kartikey Tyagi Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Kartikey Tyagi - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR.",
   },
   robots: {
     index: true,
