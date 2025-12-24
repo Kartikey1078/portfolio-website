@@ -163,7 +163,7 @@ export default function Banner(): React.JSX.Element {
             </span>
           </p>
           <p className="text-lg text-white/80 max-w-2xl mt-15 mx-auto lg:mx-0">
-            A self-taught full stack developer with 2 year of hands-on
+            A self-taught full stack developer with 3+ year of hands-on
             experience. I build scalable, high-performance web applications that
             balance clean user experiences with robust backend logic and
             real-world business needs.
