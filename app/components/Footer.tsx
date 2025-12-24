@@ -31,7 +31,7 @@ export default function Footer(): React.JSX.Element {
             target="_blank"
             rel="noopener noreferrer"
             className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 border border-purple-500/30 hover:border-purple-500/50 transition-all"
-            aria-label="Instagram"
+            aria-label="Instagramm"
           >
             <Image
               src="/assets/insta.webp"
