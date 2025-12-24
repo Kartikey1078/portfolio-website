@@ -15,13 +15,13 @@ export default function Footer(): React.JSX.Element {
             in mind? Let&apos;s connect.
           </p>
           <a
-            href="mailto:kartikeytyagi1234@gmail.com"
+            href="mailto:kartikeyweb@outlook.com"
             className="text-md text-purple-400 hover:text-purple-300 transition-colors"
           >
-           📧  kartikeytyagi1234@gmail.com
+           📧  kartikeyweb@outlook.com
            
           </a>
-           <p> <span>📱</span> +91-7015804207</p>
+           <p> <span>📱</span> +91-8307553728</p>
         </div>
 
         {/* Social Media Icons */}
